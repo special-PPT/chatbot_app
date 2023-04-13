@@ -1,0 +1,2 @@
+recursive-include chatbot_app/static *
+recursive-include chatbot_app/templates *
